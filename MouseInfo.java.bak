@@ -7,7 +7,7 @@ public String mouseType  ;
 public MouseInfo(String brand,String mouseType)
 {
 		this.brand = brand ;
-		this.MouseType = mouseType ;
+		this.mouseType = mouseType ;
 		
 	
 	

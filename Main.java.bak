@@ -11,7 +11,9 @@ public class Main{
 		MouseInfo mouseObj = new MouseInfo("HP","Wifi") ;
 		
 		
- 		System.out.println("			---------COMPUTER INFORMATION---------");
+ 		
+		System.out.println("		 ---------COMPUTER INFORMATION---------");
+			System.out.println("---------");
 			System.out.println("MONITOR");
 			System.out.println("---------");
 				System.out.println("Brand :"+monitorObj.brand);
