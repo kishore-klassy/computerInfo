@@ -1,5 +1,18 @@
 public class MonitorInfo{
+	
+public String brand;
+public float displaySize ;
+public int resolution ;
 
+public MonitorInfo(String brand,int displaySize,int resolution)
+{
+	brand = brand ;
+	displaySize = displaySize;
+resolution = resolution ;
+	
+	
+	
+}
 
 
 
