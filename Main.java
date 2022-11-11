@@ -4,7 +4,7 @@ public class Main{
 	
 	public static void main(String args[]){
 		
-		//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
+		
 		MonitorInfo monitorObj = new MonitorInfo("LG",24,1080) ; 
  		CpuInfo cpuObj = new CpuInfo("intel",16,512) ; 
 	KeyboardInfo keyboardObj = new KeyboardInfo("Zebronics",57,"mechanical") ;
